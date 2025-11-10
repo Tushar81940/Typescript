@@ -12,3 +12,6 @@ function sum(name:string,role:string="warrior"){
     return `${name} is a ${role}`
 }
 console.log(sum("Tushar","Superman"));
+
+
+
